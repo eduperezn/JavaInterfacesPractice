@@ -13,4 +13,4 @@ InterfazTienda
 
 - - - - - - - - - - -
 PagoMensual
--Es una interfáz donde se realiza el cálculo de pago de salario a empleados a partir de horas trabajadas, bonos, impuestos, etc.
+- Es una interfáz donde se realiza el cálculo de pago de salario a empleados a partir de horas trabajadas, bonos, impuestos, etc.
